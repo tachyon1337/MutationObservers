@@ -15,7 +15,6 @@
   },
   "author": "",
   "license": "BSD",
-  "gitHead": "fffb15e43b267034671cb01521df35b7fa063b7a",
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
