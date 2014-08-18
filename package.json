@@ -1,7 +1,7 @@
 {
   "name": "MutationObservers",
-  "version": "0.0.0",
-  "description": "ERROR: No README.md file found!",
+  "version": "0.3.5",
+  "description": "Mutation Observer Polyfill",
   "main": "MutationObserver.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Polymer/MutationObservers.git"
+    "url": "https://github.com/tachyon1337/MutationObservers.git"
   },
   "author": "",
   "license": "BSD",
